@@ -10,7 +10,7 @@ date: "2019-10-30T00:00:00Z"
 #external_link: "http://calwaterquality.com"
 
 image:
-  # caption: Photo by xyz
+  # caption:
   focal_point: Smart
 
 # links:
@@ -23,6 +23,7 @@ url_code: "https://github.com/caccr/cawdc_2019"
 url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=6YEkzftrbK4&t=2s"
+url_project: "http://calwaterquality.com/"
 
 
 
@@ -34,17 +35,10 @@ url_video: "https://www.youtube.com/watch?v=6YEkzftrbK4&t=2s"
 slides: example
 ---
 
-<style>
-  .rotate90 {
-      -webkit-transform: rotate(90deg);
-      -moz-transform: rotate(90deg);
-      -o-transform: rotate(90deg);
-      -ms-transform: rotate(90deg);
-      transform: rotate(90deg);
-  }
-</style>  
 
-:megaphone: {{< hl >}} I'm looking for a funder to help me automate this reporting system and make it auto-updating.{{< /hl >}} Please [contact me](http://richpauloo.com/#contact) if you have any leads.  
+{{% alert note %}}
+I'm looking for a funder to help me automate this reporting system and make it auto-updating. Please [contact me](http://richpauloo.com/#contact) if you have any leads.
+{{% /alert %}}  
 
 :trophy: This work won an award at the [2019 California Water Data Challenge](https://waterchallenge.data.ca.gov/).  
 
