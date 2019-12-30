@@ -2,8 +2,7 @@
 title: textme
 summary: Text yourself from R when long running jobs complete.
 tags: 
-  - Dashboards
-  - Water
+  - Data science
 date: "2019-10-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -10,6 +10,7 @@ header:
 image:
   caption: "[View the project here.](/project/cawdc-2019/)"
 projects: [cawdc-2019]
+featured: true
 ---
 
 ## Summary

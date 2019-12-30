@@ -10,7 +10,9 @@ header:
   image: ''
 image: 
   caption: ""
+  preview_only: true
 projects: ""
+featured: true
 ---
 
 

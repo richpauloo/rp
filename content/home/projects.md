@@ -24,22 +24,18 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
-  [[content.filter_button]]
-    name = "Apps"
-    tag = "Apps"
     
   [[content.filter_button]]
-    name = "Dashboards"
-    tag = "Dashboards"
+    name = "Data science"
+    tag = "Data science"
     
   [[content.filter_button]]
     name = "Water"
     tag = "Water"
     
   [[content.filter_button]]
-    name = "Websites"
-    tag = "Websites"
+    name = "Web"
+    tag = "Web"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

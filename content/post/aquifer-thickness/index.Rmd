@@ -2,7 +2,7 @@
 title: Aquifer thickness calculated from ~300,000 well logs
 author: Rich
 date: '2018-03-15 02:57:45+00:00'
-slug: aquifer_thickness
+slug: aquifer-thickness
 summary: Data visualization from hundreds of thousands of well completion reports reveals aquifer characteristics in California groundwater basins.
 external_link: ""
 links:
@@ -11,6 +11,7 @@ links:
   name: Github
   url: https://github.com/richpauloo/junkyard/blob/master/aquifer_thickness/index.Rmd
 math: false
+featured: true
 ---
 
 At the time of writing, the [California DWR Online Well Completion Report Database](https://data.ca.gov/dataset/well-completion-reports) contains ~1,000,000 digitized well logs. About 1/3 of those wells have information on the top and bottom of the perforated interval, which we can use to compute and visualize regional estimates of:  

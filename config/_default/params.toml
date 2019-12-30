@@ -57,7 +57,7 @@ logo = ""
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r"]  # Add support for highlighting additional languages
+highlight_languages = ["r", "python", "bash"]  # Add support for highlighting additional languages
 highlight_style = "atom-one-dark"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/  and https://highlightjs.org/static/demo/
 
 # Enable LaTeX math rendering? true/false
@@ -147,7 +147,7 @@ address_format = "en-us"
 gravatar = false
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "r", show_logo = true}
+main_menu = {align = "l", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -225,7 +225,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

@@ -1,9 +1,10 @@
 ---
-title: cal water quality dot com
-summary: Automated water quality reports for > 3,000 California public water systems. 🏆 2019 California Water Data Challenge.
+title: cal water quality .com
+summary: Automated water quality reports for > 3,000 California public water systems. 🏆 Winner 2019 California Water Data Challenge. 
 tags: 
-  - Dashboards
+  - Data sccience  
   - Water
+  - Web
 date: "2019-10-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -40,7 +41,7 @@ slides: example
 I'm looking for a funder to help me automate this reporting system and make it auto-updating. Please [contact me](http://richpauloo.com/#contact) if you have any leads.
 {{% /alert %}}  
 
-:trophy: This work won an award at the [2019 California Water Data Challenge](https://waterchallenge.data.ca.gov/).  
+:trophy: This won an award at the [2019 California Water Data Challenge](https://waterchallenge.data.ca.gov/).  
 
 
 <center>{{< tweet 1186289564576559109 >}}</center>

@@ -1,16 +1,15 @@
 ---
-title: cal water quality dot com
-summary: Automated water quality reports for > 3,000 California public water systems. 🏆 2019 California Water Data Challenge.
+title: groundwater statement .org
+summary: Built a website that gathered > 1,000 signatories of leading groundwater scientists from ~100 countries in 1 month. The statement has seen been featured in Nature and various news sources worldwide. 
 tags: 
-  - Dashboards
   - Water
+  - Web
 date: "2019-10-30T00:00:00Z"
-
 # Optional external URL for project (replaces project detail page).
 #external_link: "http://calwaterquality.com"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: '[Click here to view the project](https://www.groundwaterstatement.org/)'
   focal_point: Smart
 
 # links:
@@ -19,10 +18,11 @@ image:
 #   name: Github
 #   url: https://github.com/caccr/cawdc_2019
 
-url_code: "https://github.com/caccr/cawdc_2019"
-url_pdf: ""
+url_link: ""
+url_pdf: "http://richpauloo.com/files/gwst.pdf"
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=6YEkzftrbK4&t=2s"
+url_video: "https://www.youtube.com/watch?v=y_GE5TdN1yM"
+url_project: "https://www.groundwaterstatement.org/"
 
 
 
@@ -36,30 +36,20 @@ slides: example
 
 ---
 
-:megaphone: {{< hl >}} I'm looking for a funder to help me automate this reporting system and make it auto-updating.{{< /hl >}} Please [contact me](http://richpauloo.com/#contact) if you have any leads.  
+### [groundwaterstatement.org](https://www.groundwaterstatement.org/) 
 
-<hr>
+is a call to action from > 1,000 leading groundwater scientists in ~100 countries worldwide. I built this website with a team of designers and scientists.   
 
-Present sources of water quality information in California (i.e. - consumer confidence reports, or CCRs) are fragmented across thousands of water utilities in the state, lack consistency and clarity, and tend to communicate data via hard-to-understand tables (see 3 examples of CCRs below, or view them in their entirely[^1].). 
+### About
 
-{{< figure src="ccrs.png" title="CCRs in the wild: the good, the bad and the ugly." lightbox="true" >}}
+{{< youtube y_GE5TdN1yM >}}
 
-Near-real-time, standardized, and easy to understand water quality reports would improve the public’s understanding of the water they buy and consume. Automated creation of water quality reports would ease reporting responsibilities for water agencies, freeing them to tackle harder problems.
-
-This project aimed to build a “weather app” for California community water system water quality. The benefits of this approach include standardization, consistency across agencies, ease of use, and near-real-time water quality information.
-
-The project aggregates publicly available water quality data for all California community water systems to report:  
-
-* compliance status  
-* chemicals detected within the past 2 years  
-* average detection levels for all contaminants tested for  
-* water quality indicators  
-* local water and health system contact information  
-
-Read [a blog post]("/post/cawdc-2019/") about the project.  
+Groundwater, the invisible water beneath our feet, represents 99% of Earth’s liquid freshwater, making it critical for supplying drinking water, ensuring food security, adapting to climate variability, supporting biodiversity, sustaining surface water bodies and meeting the UN's Sustainable Development Goals.
 
 
-[^1]: {{% staticref "files/ccr1.pdf" %}}CCR example #1{{% /staticref %}},
-{{% staticref "files/ccr2.pdf" %}}CCR example #2{{% /staticref %}},
-{{% staticref "files/ccr3.pdf" %}}CCR example #3{{% /staticref %}}
+Unfortunately, in many regions, groundwater is increasingly depleted or polluted, hampering socio-economic development and threatening water and food supplies and ecosystems. At the same time, advances in research, technology and policy offer innovative solutions. There is a unique, but shrinking, window of opportunity to act – and now is the time for action to ensure groundwater continues to benefit society today and in the future.
+
+
+Groundwater challenges and opportunities are often overlooked in national and international strategies for sustainable development, climate adaptation and biodiversity. As a global group of scientists, practitioners and other experts in groundwater and related fields, we call on international and national governmental and non-governmental agencies, development organizations, corporations, decision-makers and scientists to address three action items.
+
 
