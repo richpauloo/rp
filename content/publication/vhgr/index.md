@@ -5,7 +5,7 @@ authors:
 - Rich
 - Graham E. Fogg
 - Zhilin Guo
-- Chirstopher V. Henri
+- Christopher V. Henri
 slug: vhgr
 doi: ''
 publication_types: ["2"]
@@ -25,7 +25,7 @@ links:
 url_pdf: ''
 #url_code: 'https://github.com/richpauloo/well_failure'
 #url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25338/B8Q31D'
-url_poster: 'http://richpauloo.com/files/2019_12_09_agu_pauloo.pdf'
+url_poster: 'http://www.richpauloo.com/files/2019_12_09_agu_pauloo.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: ''

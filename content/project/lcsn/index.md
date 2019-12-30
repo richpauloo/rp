@@ -23,7 +23,7 @@ links:
 - icon: ''
   icon_pack: ''
   name: Paper
-  url: http://richpauloo.com/publication/lcsn
+  url: http://www.richpauloo.com/publication/lcsn/
 
 #url_code: ""
 #url_pdf: ""

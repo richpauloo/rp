@@ -7,7 +7,7 @@ tags:
 date: "2017-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://richpauloo.com/oswcr-eda/
+external_link: http://www.richpauloo.com/oswcr-eda/
 
 image:
   caption: Photo by Toa Heftiba on Unsplash

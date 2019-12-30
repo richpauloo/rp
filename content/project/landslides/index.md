@@ -7,7 +7,7 @@ tags:
 date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://richpauloo.com/landslide/index.html
+external_link: http://www.richpauloo.com/landslide/index.html
 
 image:
   caption: Photo by Toa Heftiba on Unsplash

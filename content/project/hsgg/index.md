@@ -13,11 +13,15 @@ image:
   focal_point: Smart
   preview_only: false
 
+links:
+- icon: ''
+  icon_pack: ''
+  name: Website
+  url: https://www.hsgg.ucdavis.edu
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-url_link: "https://www.hsgg.ucdavis.edu"
 
 
 

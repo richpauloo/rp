@@ -12,17 +12,16 @@ image:
   caption: '[Click here to view the project](https://www.groundwaterstatement.org/)'
   focal_point: Smart
 
-# links:
-# - icon: github
-#   icon_pack: fab
-#   name: Github
-#   url: https://github.com/caccr/cawdc_2019
-
+links:
+- icon: ''
+  icon_pack: ''
+  name: Website
+  url: https://www.groundwaterstatement.org/
 url_link: ""
-url_pdf: "http://richpauloo.com/files/gwst.pdf"
+url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=y_GE5TdN1yM"
-url_project: "https://www.groundwaterstatement.org/"
+url_video: ""
+url_project: ""
 
 
 

@@ -9,7 +9,7 @@ date: "2019-10-30T00:00:00Z"
 #external_link: "http://calwaterquality.com"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
 
 links:

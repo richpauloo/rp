@@ -25,7 +25,7 @@ links:
 url_pdf: ''
 url_code: 'https://github.com/richpauloo/Monte-Carlo-Mixing-Model'
 url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25338/B81P5K'
-url_poster: 'http://richpauloo.com/files/2019_10_01_chapman_pauloo.pdf'
+url_poster: 'http://www.richpauloo.com/files/2019_10_20_chapman_valencia.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: ''

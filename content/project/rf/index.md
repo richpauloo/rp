@@ -11,6 +11,7 @@ date: "2019-10-30T00:00:00Z"
 image:
   caption: 
   focal_point: Smart
+  preview_only: true
 
 links:
 - icon: github
