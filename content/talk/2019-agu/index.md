@@ -1,5 +1,5 @@
 ---
-title: 'Hydruulic gradients modulate non-Fickian transport in heterogeneous porous media'
+title: 'Hydraulic gradients modulate non-Fickian transport in heterogeneous porous media'
 event: Hydrology poster session (H21L-1912)
 event_url: https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/76176
 

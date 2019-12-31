@@ -1,6 +1,6 @@
 ---
 title: CA well reports
-summary: Eploratory data analysis of California's Online State Well Completion Report Database.
+summary: Exploratory data analysis of California's Online State Well Completion Report Database.
 tags: 
   - Data science
   - Water

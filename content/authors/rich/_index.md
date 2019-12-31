@@ -31,7 +31,7 @@ education:
   - course: PhD in Hydrogeology
     institution: UC Davis
     year: 2020
-  - course: BS in Biology & Conflict Resolution minor
+  - course: BS in Biology, minor in Conflict Resolution
     institution: UC Berkeley
     year: 2011
 
@@ -71,6 +71,6 @@ user_groups:
 
 I'm a currently PhD Candidate studying physical hydrogeology at the University of California Davis with [Dr. Graham Fogg](https://www.researchgate.net/profile/Graham_Fogg). My research interests are driven by emerging regional-scale threats to aquifers, such as nonpoint source contamination and domestic well failure. Methodologically, I integrate tools from geostatistics, 3D groundwater flow and contaminant transport, statistical/machine learning, optimization, calibration, and mathematical modeling to explain and forecast the behavior of hydrologic systems. I'm also fascinated by remote sensor networks, data science, data visualization/communication, and the power of open source software.
 
-In a past life, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers in Thailand leading trips for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). Those were some of the best years of my life. I learned how to speak comfortably to large groups of people, communicate science to diverse audiences, and improvise. 
+Before pursuing my PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers in Thailand leading trips for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). Those were some of the best years of my life. I learned how to speak comfortably to large groups of people, communicate science to diverse audiences, and improvise. 
 
 Outside of work, I like to cook, play guitar, explore the alpine environment with a rope and harness, and catch waves in the cold California ocean.
