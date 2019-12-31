@@ -5,7 +5,7 @@ slug: lcsn
 authors:
 - Andrew Calderwood
 - Rich
-- Graham Fogg
+- Graham E. Fogg
 summary: ''
 doi: ''
 publication_types: ["2"]
