@@ -38,7 +38,7 @@ slides: example
 
 
 {{% alert note %}}
-I'm looking for a funder to help me automate this reporting system and make it auto-updating. Please [contact me](http://richpauloo.com/#contact) if you have any leads.
+I'm looking for funding to improve this project by: (1) automating the reporting system, and (2) expanding the display to include historical trends in water quality and compliance. Please [contact me](http://richpauloo.com/#contact) if you have any leads.
 {{% /alert %}}  
 
 :trophy: This won an award at the [2019 California Water Data Challenge](https://waterchallenge.data.ca.gov/).  
