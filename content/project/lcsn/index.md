@@ -53,7 +53,7 @@ I have built a number of custom solutions for automated, real-time streaming of 
 I'm currently working on a [new lightweight, scalable groundwater observatory dashbaord](http://richpauloo.com/gwo/) extensible enough to be easily applied to any [low cost sensor network]({{< ref "/publication/lcsn/index.md" >}}), written primarily in `R`, `JS`, `HTML/CSS`, and deployed on `AWS` (example below):  
 {{% /alert %}}
 
-{{< figure library="true" src="watergrid_mockup.png" title="A groundwater observatory demo, [which you can interact with here](http://richpauloo.com/gwo/)." lightbox="false" >}}  
+{{< figure library="true" src="watergrid_mockup.png" title="A groundwater observatory demo, [which you can interact with here](http://www.richpauloo.com/gwo/)." lightbox="false" >}}  
 
 Although I emphasize groundwater monitoring to support implmentation of [California's Sustainable Groundwater Management Act](https://water.ca.gov/Programs/Groundwater-Management/SGMA-Groundwater-Management), this tool is general enough to be applied to real-time data from any sensor.  
 
