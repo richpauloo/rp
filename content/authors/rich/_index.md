@@ -50,9 +50,12 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+- icon: github-alt
   icon_pack: fab
   link: https://github.com/richpauloo
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
