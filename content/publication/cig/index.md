@@ -29,7 +29,7 @@ url_code: 'https://github.com/richpauloo/cig_nlp'
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-#url_source: ''
+url_source: 'https://ieeexplore.ieee.org/document/8827910'
 #url_video: ''
 
 math: true
