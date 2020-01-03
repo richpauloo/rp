@@ -50,7 +50,7 @@ I have built a number of custom solutions for automated, real-time streaming of 
 
 
 {{% alert note %}}
-I'm currently working on a [new lightweight, scalable groundwater observatory dashboard](http://richpauloo.com/gwo/) extensible enough to be easily applied to any [low cost sensor network]({{< ref "/publication/lcsn/index.md" >}}), written primarily in `R`, `JS`, `HTML/CSS`, and deployed on `AWS` (example below):  
+I'm currently working on a [new lightweight, scalable groundwater observatory dashboard](https://richpauloo.github.io/gwo/) extensible enough to be easily applied to any [low cost sensor network]({{< ref "/publication/lcsn/index.md" >}}), written primarily in `R`, `JS`, `HTML/CSS`, and deployed on `AWS` (example below):  
 {{% /alert %}}
 
 {{< figure library="true" src="watergrid_mockup.png" title="A groundwater observatory demo, [which you can interact with here](https://richpauloo.github.io/gwo/)." lightbox="false" >}}  
