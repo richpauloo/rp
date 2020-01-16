@@ -86,7 +86,7 @@ In California's Central Valley, the hotspot of groundwater extraction, some fear
 > 
 > -Jay Famiglietti, Hydrologist and Executive Director of the Global Institute for Water Security at the University of Saskatchewan
 
-Data from well completion reports in California confirms that agricultural wells are indeed being drilled deeper, which recent research in the journal _Nature_ suggests is part of an alarming nationwide trend [^6]. Access to deeper groundwater is a hedge against drought, unreliable surface water supply, and the uncertainty of future legislation. It doesn't hurt to have more access to groundwater before SGMA fully kicks in.  
+Data from well completion reports in California confirms that agricultural wells are indeed being drilled deeper, which recent research by Debra Perrone and Scott Jasechko in the journal _Nature_ suggests is part of an alarming nationwide trend [^6]. Access to deeper groundwater is a hedge against drought, unreliable surface water supply, and the uncertainty of future legislation. It doesn't hurt to have more access to groundwater before SGMA fully kicks in.  
 
 
 ***
@@ -101,7 +101,7 @@ If you laid each of the roughly 80,000 agricultural wells drilled since 1940 in 
 <iframe width="560" height="560" src="https://richpauloo.github.io/htmlwidgets/globe/index.html" frameborder="0"></iframe>
 </center>
 
-I'm a fan of simple math. If we sum the depth of the roughly 80,000 agricultural wells drilled in California since 1940, we arrive at 33,004,191 feet. That's 6,251 miles, which is about the distance from Seattle, Washington to my mother's hometown in Guangzhou, China (6,453 miles). Fun fact, it’s also about 25% of the earth’s circumference (24,901 miles), shown above. 
+I'm a fan of simple math. If we sum the depth of the roughly 80,000 agricultural wells drilled in California since 1940, we arrive at 33,004,191 feet. That's 6,251 miles, which is about the distance from Seattle, Washington to my mother's hometown in Guangzhou, China (6,453 miles). It’s also about 25% of the earth’s circumference (24,901 miles), shown above. 
 
 
 ***  
@@ -122,11 +122,11 @@ The multi-billion dollar agricultural industry fueled by groundwater in Californ
 
 What is the way forward?  
 
-First and foremost, to borrow a tired platitude, _we can only manage what we can measure_. California, and regions worldwide that seek to curb unsustainable groundwater use need to leverage [low-cost, remote sensor networks to monitor groundwater resources in near-real time](http://ucwater.org/gw_obs). New well permits should come conditional with smart meters that measure water extraction and enable the creation of [groundwater markets](https://www.ppic.org/publication/californias-water-market/).  
+First and foremost, to borrow a tired platitude, _we can only manage what we can measure_. California, and regions worldwide that seek to curb unsustainable groundwater use need to leverage [low-cost, remote sensor networks to monitor groundwater resources in near-real time](https://www.richpauloo.com/project/lcsn/). New well permits should come conditional with smart meters that measure water extraction and enable the creation of [groundwater markets](https://www.ppic.org/publication/californias-water-market/).  
 
 Next, with groundwater consumption data in place, policies may be created geared towards the unique conditions, existing water rights, and historical context of the areas of interest.  
 
-Ultimately, as shown by the Public Policy Institute of California for the San Joaquin Valley [^7], the paths towards groundwater sustainability will depend on the unique water budget of the region, and is likely to include some combination of augmenting supplies, reducing demands by transitioning crops, and in some cases, fallowing fields. Addressing the issue of sustainable groundwater management is complex, requires significant cooperation between a wide array of stakeholders, and will most likely succeed if the solutions proposed are low-cost and benefit multiple parties.  
+Ultimately, as shown by the Public Policy Institute of California for the San Joaquin Valley [^7], the paths towards groundwater sustainability will depend on the unique water budget of the region, and is likely to include some combination of augmenting supplies, reducing demands by transitioning crops, and in some cases, fallowing fields. Addressing the issue of sustainable groundwater management is complex, requires significant cooperation between a wide array of stakeholders, and will most likely succeed if the solutions proposed are cost efficient and benefit multiple parties.  
 
 
 
