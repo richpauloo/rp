@@ -1,13 +1,13 @@
 ---
-title: Peril and promise: groundwater overdraft & next generation monitoring
-event: We Manage What We Measure: A Napa Community Watershed Forum
-#event_url: https://www.cawaterdatasummit.org/
+title: 'Peril and promise: groundwater overdraft and next generation monitoring'
+event: We Manage What We Measure, A Napa Community Watershed Forum
+event_url: 
 
-location: 'Napa Community Watershed Forum'
+location: 'Napa, CA'
 address:
   street: ''
-  city: Napa
-  region: CA
+  city: ''
+  region: ''
   postcode: ''
   country: United States
 
@@ -15,12 +15,12 @@ summary: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-07T13:00:00Z"
+date: "2020-02-07 T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-02-06T13:00:00Z"
+publishDate: "2020-02-06T00:00:00Z"
 
 authors: []
 tags: []
