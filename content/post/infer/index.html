@@ -137,14 +137,14 @@ names(gss)</code></pre>
 ##    party NASA        permutation_1 permutation_2
 ##    &lt;fct&gt; &lt;fct&gt;       &lt;fct&gt;         &lt;fct&gt;        
 ##  1 Ind   TOO LITTLE  ABOUT RIGHT   ABOUT RIGHT  
-##  2 Ind   ABOUT RIGHT ABOUT RIGHT   ABOUT RIGHT  
-##  3 Dem   ABOUT RIGHT ABOUT RIGHT   TOO MUCH     
-##  4 Ind   TOO LITTLE  ABOUT RIGHT   ABOUT RIGHT  
-##  5 Ind   TOO MUCH    ABOUT RIGHT   TOO LITTLE   
-##  6 Ind   TOO LITTLE  ABOUT RIGHT   TOO MUCH     
-##  7 Ind   ABOUT RIGHT ABOUT RIGHT   TOO MUCH     
-##  8 Dem   ABOUT RIGHT ABOUT RIGHT   TOO LITTLE   
-##  9 Dem   TOO LITTLE  ABOUT RIGHT   ABOUT RIGHT  
+##  2 Ind   ABOUT RIGHT TOO LITTLE    ABOUT RIGHT  
+##  3 Dem   ABOUT RIGHT TOO MUCH      ABOUT RIGHT  
+##  4 Ind   TOO LITTLE  TOO LITTLE    TOO LITTLE   
+##  5 Ind   TOO MUCH    TOO MUCH      ABOUT RIGHT  
+##  6 Ind   TOO LITTLE  TOO LITTLE    ABOUT RIGHT  
+##  7 Ind   ABOUT RIGHT ABOUT RIGHT   ABOUT RIGHT  
+##  8 Dem   ABOUT RIGHT TOO MUCH      TOO LITTLE   
+##  9 Dem   TOO LITTLE  TOO MUCH      TOO LITTLE   
 ## 10 Ind   TOO LITTLE  TOO MUCH      ABOUT RIGHT  
 ## # … with 139 more rows</code></pre>
 <p>These premutations represent what we would expect to see <strong>if the relationship between variables was completeley random</strong>. We could generate many, many permuations, calcualte an Chi-squared statistic for each, and we would expect their distribution to approach the density functions shown above. Then we could plot our data on that distribution and see where it fell. If the area under the curve to the right of the point was less than 5%, we could reject the null hypothesis.</p>
@@ -189,7 +189,7 @@ names(gss)</code></pre>
 <pre><code>## # A tibble: 1 x 1
 ##   p_val
 ##   &lt;dbl&gt;
-## 1 0.862</code></pre>
+## 1 0.868</code></pre>
 <p>If we omit <code>visualize</code>, we get a dataframe of the permuted values:</p>
 <pre class="r"><code>gss %&gt;% 
   specify(NASA ~ party)  %&gt;% 
@@ -199,16 +199,16 @@ names(gss)</code></pre>
 <pre><code>## # A tibble: 1,000 x 2
 ##    replicate  stat
 ##        &lt;int&gt; &lt;dbl&gt;
-##  1         1  2.64
-##  2         2  1.22
-##  3         3  1.10
-##  4         4  3.94
-##  5         5  5.16
-##  6         6  3.43
-##  7         7  1.42
-##  8         8  1.07
-##  9         9  3.96
-## 10        10 12.8 
+##  1         1  1.33
+##  2         2  1.48
+##  3         3  1.75
+##  4         4  6.63
+##  5         5  6.45
+##  6         6  1.87
+##  7         7  6.31
+##  8         8  2.19
+##  9         9  1.40
+## 10        10 14.0 
 ## # … with 990 more rows</code></pre>
 <pre class="r"><code>  # visualize() +
   # geom_vline(aes(xintercept = observed_stat), color = &quot;red&quot;) # add a vertical line for gss data</code></pre>
@@ -275,11 +275,11 @@ visualize(boot) +
   pull()
 
 SE</code></pre>
-<pre><code>## [1] 0.07352811</code></pre>
+<pre><code>## [1] 0.07165483</code></pre>
 <pre class="r"><code>CI &lt;- c(obs_stat - 2 * SE, obs_stat + 2 * SE)
 
 CI</code></pre>
-<pre><code>## [1] 0.07215561 0.36626804</code></pre>
+<pre><code>## [1] 0.07590215 0.36252149</code></pre>
 <p>And now we can add these confidence intervals to our etimate of the measured difference in happiness between men and women in our population with <code>geom_segment</code>.</p>
 <pre class="r"><code>x_pos &lt;- &quot;diff in happiness&quot;
 

@@ -58,6 +58,42 @@ subtitle = ""
   album = "gallery"
   image = "speak.jpg"
   caption = "Presenting at the 2019 California Water Data Summit."
+
+[[gallery_item]]
+  album = "gallery"
+  image = "temple.jpg"
+  caption = "Atop Temple Crag (2017)."
+
+[[gallery_item]]
+  album = "gallery"
+  image = "agu.jpg"
+  caption = "Presenting at the AGU 2019 Fall meeting, where I had the honor of winning the Outstanding Student Presentation Award (OPSA)!"
+
+[[gallery_item]]
+  album = "gallery"
+  image = "eichorn.jpg"
+  caption = "Atop Eichorn's pinnacle (2017)."
+
+[[gallery_item]]
+  album = "gallery"
+  image = "geochem.jpg"
+  caption = "Aqueous geochemistry art."
+
+[[gallery_item]]
+  album = "gallery"
+  image = "hangar.jpg"
+  caption = "A space shuttle fits inside this hangar!"
+
+[[gallery_item]]
+  album = "gallery"
+  image = "lauterbrunnen.jpg"
+  caption = "Hiking in the Alps near Lauterbrunnen, Switzerland (2018)."
+
+[[gallery_item]]
+  album = "gallery"
+  image = "snow.jpg"
+  caption = "Goofing off near Tahoe in winter."
+
   
 +++
 
