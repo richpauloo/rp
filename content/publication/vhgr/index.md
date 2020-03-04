@@ -38,7 +38,7 @@ math: true
 
 Fluid flow and contaminant transport in heterogeneous porous media is critical in many applications from sustainable groundwater quality management to radioactive waste disposal and water filtration. Accurate contaminant transport modeling is challenged by anomalous (non-Fickian) transport, characterized by early breakthrough, long tailing, non-Gaussian or multipeaked plume shapes, and non-linear scaling of the mean square displacement. 
 
-In regional alluvial aquifers, it is unknown how emerging nonpoint source contamination (e.g., salts and nitrates) will interact with aquifer heterogeneity and shitiing hydraulic gradients. Pumping and recharge for irrigation significantly shift the magnitude and direction of regional hydraulic gradients but how variations in the hydraulic gradients, particularly direction, impact non-Fickian transport remains, to our knowledge, unexplored. We investigate the influence of hydraulic gradients on non-Fickian transport with a simple concept, the vertical to horizontal gradient ratio (VHGR):  
+In regional alluvial aquifers, it is unknown how emerging nonpoint source contamination (e.g., salts and nitrates) will interact with aquifer heterogeneity and shifting hydraulic gradients. Pumping and recharge for irrigation significantly shift the magnitude and direction of regional hydraulic gradients but how variations in the hydraulic gradients, particularly direction, impact non-Fickian transport remains, to our knowledge, unexplored. We investigate the influence of hydraulic gradients on non-Fickian transport with a simple concept, the vertical to horizontal gradient ratio (VHGR):  
 
 $$ VHGR = \frac{\partial h / \partial z}{\partial h / \partial y}$$  
 
