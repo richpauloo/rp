@@ -24,7 +24,7 @@ header:
 image:
   caption: "Conceptual model of well failure."
 links:
-url_pdf: 'https://iopscience.iop.org/article/10.1088/1748-9326/ab6f10'
+#url_pdf: 
 #url_code: 'https://github.com/richpauloo/well_failure'
 url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25338/B8Q31D'
 #url_poster: ''
