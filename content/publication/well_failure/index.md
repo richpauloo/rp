@@ -41,3 +41,7 @@ This publication grew out of the [2018 California water data Challenge](https://
 
 <center>{{< tweet 1053082342279892992 >}}</center>
 
+
+### Video abstract
+
+{{<youtube hCND7PohWqM>}}

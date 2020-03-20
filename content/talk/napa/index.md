@@ -34,14 +34,14 @@ image:
   preview_only: true
 
 links:
-#- icon: ''
-#  icon_pack: ''
-#  name: paper
-#  url: http://www.richpauloo.com/publication/well-failure/
+- icon: ''
+  icon_pack: ''
+  name: video
+  url: https://www.youtube.com/watch?v=GdvQX2RWk78&feature=youtu.be&t=4713
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -64,5 +64,7 @@ math: false
 
 Invited talk on extreme consequences of groundwater overdraft and monitoring for sustainable groundwater management.  
 
+
+### Slides
 <script async class="speakerdeck-embed" data-id="eda4a74a5e6d4863aed7ec29a58cb123" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
