@@ -1,5 +1,5 @@
 ---
-title: A low cost, open source wireless sensor network for real-time groundwater monitoring
+title: Low-Cost, Open Source Wireless Sensor Network for Real-Time, Scalable Groundwater Monitoring
 date: "2019-12-28T00:00:00Z"
 slug: lcsn
 authors:
@@ -7,13 +7,13 @@ authors:
 - Rich
 - Graham E. Fogg
 summary: ''
-doi: ''
+doi: '10.3390/w12041066'
 publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
-publication: "*Water* (in prep)"
-publication_short: "*Water* (in prep)"
+publication: "*Water (Special Issue: Advances in Groundwater and Surface Water Monitoring and Management)*"
+publication_short: "*Water*"
 
-abstract: Population growth, climate uncertainties, and unsustainable groundwater pumping challenge aquifer sustainability worldwide. Existing methods to measure and monitor groundwater levels may be cost-prohibitive, or lack the spatial or temporal resolution to sufficiently meet key water modeling, management, and policy objectives. In this study, we demonstrate a fully-automated, open source, low cost wireless sensors network (LCSN) for real-time groundwater data streaming in the South American Subbasin Groundwater Observatory (GWO), located in California, USA. We demonstrate the steps taken to create the GWO, including field, hardware, software, and data pipeline components. The code to acquire and clean data, and render the dashboard are provided online, thus providing a model for automated, low-cost, and real-time groundwater level monitoring.
+abstract: Population growth, climate uncertainties, and unsustainable groundwater pumping challenge aquifer sustainability worldwide. Efficient and data-driven groundwater supply management is a necessity to maintain essential water-dependent functions. Currently, managers lack the cost-effective, scalable, and reliable groundwater monitoring systems needed to collect vital groundwater data. Existing automated groundwater monitoring systems tend to be cost-prohibitive, and manual methods lack the spatial or temporal resolution to sufficiently meet critical water modeling, management, and policy objectives. In this study, we developed a fully automated, open source, low cost wireless sensor network (LCSN) for real-time groundwater data acquisition, processing, and visualization in the South American Subbasin Groundwater Observatory (GWO), located in California, USA. We demonstrate the steps taken to create the GWO, including field, hardware, software, and data pipeline components so that it may be easily reproduced in new areas. We find that the GWO is comparable in cost to manual measurements at a weekly measurement frequency, and costs between three and four times less than comparable commercially available telemetry and dashboard systems, largely due to the use of free open source software to acquire, clean, store, and visualize data. The open source-powered GWO thus lowers the financial and technical barrier of entry for real-time groundwater monitoring, creating the potential for more informed water management worldwide, particularly in regions whose managers are restricted by the high capital costs of commercial monitoring systems.
 
 header:
   caption: ''
