@@ -34,10 +34,10 @@ image:
   preview_only: true
 
 links:
-- icon: ''
-  icon_pack: ''
-  name: video
-  url: https://www.youtube.com/watch?v=GdvQX2RWk78&feature=youtu.be&t=4713
+#- icon: ''
+#  icon_pack: ''
+#  name: video
+#  url: https://www.youtube.com/watch?v=GdvQX2RWk78&feature=youtu.be&t=4713
 url_code: ""
 url_pdf: ""
 url_slides: ""
