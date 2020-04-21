@@ -23,7 +23,7 @@ bio: My interests include hydrogeology, 3D groundwater flow and contaminant tran
 interests:
 - 3D groundwater flow and contaminant transport simulation
 - Mathematical modeling of hydrologic systems
-- Real-time, distributed sensor networks
+- Real-time, in-situ sensor networks
 - Data science and open source software
 
 education:
@@ -72,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a PhD Candidate studying physical hydrogeology at the University of California Davis with [Dr. Graham Fogg](https://www.researchgate.net/profile/Graham_Fogg). My research interests concern the monitoring and modeling of vast underground aquifers -- finite water stores in the Earth's crust extracted for human consumption. Methodologically, I integrate tools from geostatistics, 3D groundwater flow and contaminant transport, statistical/machine learning, optimization, calibration, and mathematical modeling to explain and forecast the behavior of hydrologic systems. I'm also fascinated by remote sensor networks, data science, data visualization/communication, and the power of open source software.
+I'm a hydrogeologist developing scientific methods to monitor, model, and manage regional-scale aquifers, with applications in sustainable groundwater management, agricultural water use, and real-time natural resource monitoring. I've built simulations of groundwater flow and contaminant transport, open source frameworks for real-time groundwater monitoring, and models that predict if a well may run dry during drought and unsustainable management. 
 
-Before pursuing my PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). Those were some of the best years of my life. I learned how to work with tight knit groups of people for weeks on end, speak comfortably to large crowds, communicate science to diverse audiences, and improvise. 
+Before pursuing my PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). Those were some of the best years of my life. I learned how to work with tight knit groups for weeks on end in far corners of the Earth, speak comfortably to large crowds, communicate science to diverse audiences, and improvise. 
 
 I love to learn new things, cook, play guitar, explore the alpine environment with a rope and harness, take bike tours, and catch waves in the cold California ocean.
