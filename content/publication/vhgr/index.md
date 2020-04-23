@@ -7,7 +7,7 @@ authors:
 - Zhilin Guo
 - Christopher V. Henri
 slug: vhgr
-doi: ''
+doi: '10.1002/essoar.10501680.1'
 publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Water Resources Research* (in prep)"
@@ -25,7 +25,7 @@ links:
 url_pdf: ''
 #url_code: 'https://github.com/richpauloo/well_failure'
 #url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25338/B8Q31D'
-url_poster: 'http://www.richpauloo.com/files/2019_12_09_agu_pauloo.pdf'
+url_poster: 'https://essoar.org/doi/10.1002/essoar.10501680.1'
 #url_project: ''
 #url_slides: ''
 #url_source: ''

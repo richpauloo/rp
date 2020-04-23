@@ -8,7 +8,7 @@ authors:
 - Thomas Harter
 - Zhilin Guo
 summary: We describe how groundwater pumping may convert an open, fresh basin into a closed-basin system that gradually salinates. We then develop a method to estimate the rate of ongoing salinization in a groundwater basin, and apply it to the Tulare Basin in California.
-doi: ""
+doi: '10.1002/essoar.10502733.1'
 publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Water Resources Research* (in review)"
@@ -28,7 +28,7 @@ url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25338/B81P5K'
 url_poster: 'http://www.richpauloo.com/files/2019_10_20_chapman_valencia.pdf'
 #url_project: ''
 #url_slides: ''
-#url_source: ''
+#url_source: 'https://doi.org/10.1002/essoar.10502733.1'
 #url_video: 'https://www.youtube.com/watch?v=FesGid9Qrwg'
 ---
 

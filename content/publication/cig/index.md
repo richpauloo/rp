@@ -6,7 +6,7 @@ authors:
 - Rich
 - Jane Carlen
 slug: cig
-doi: ''
+doi: '10.1109/MCSE.2019.2940221'
 publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Computing in Science & Engineering*"
@@ -29,7 +29,7 @@ url_code: 'https://github.com/richpauloo/cig_nlp'
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/document/8827910'
+#url_source: 'https://ieeexplore.ieee.org/document/8827910'
 #url_video: ''
 
 math: true
