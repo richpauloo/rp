@@ -1,5 +1,5 @@
 ---
-title: 'Anthropogenic Basin Closure and Groundwater Salinization: An Unrecognized Threat to Water Quality Sustainability'
+title: 'Anthropogenic Basin Closure and Groundwater Salinization (ABCSAL)'
 date: "2019-12-28T00:00:00Z"
 slug: abcsal
 authors:
