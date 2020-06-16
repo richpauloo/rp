@@ -1,0 +1,1525 @@
+{
+  "data": [
+    {
+      "x": [91.6666666666667],
+      "y": [-0.283217230439186],
+      "text": "Pamela Reynolds (DataLab) : Congrats<br />Rich!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(248,118,109,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(248,118,109,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.8074251420781",
+      "legendgroup": "-1.8074251420781",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [72.55],
+      "y": [-0.172976641356945],
+      "text": "michael gardner : Rock it, Rich! You can<br />change the world! (Even more than your<br />presence already has!)",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(243,123,90,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(243,123,90,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.76422387247309",
+      "legendgroup": "-1.76422387247309",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [71.9],
+      "y": [-0.145137640461326],
+      "text": "jenaeclay : Fantastic job, Rich! Thanks<br />for sharing your work with us today!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(238,128,67,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(238,128,67,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.66055032299326",
+      "legendgroup": "-1.66055032299326",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [71.6333333333333],
+      "y": [0.297402903623879],
+      "text": "Carole Hom : Well done, Rich.<br />Congratulations!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(232,133,33,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(232,133,33,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.55375448229235",
+      "legendgroup": "-1.55375448229235",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [54.9166666666667],
+      "y": [-0.276262987777591],
+      "text": "Marielle Pinheiro : Off to another<br />meeting! Awesome work Rich",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(225,138,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(225,138,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.54855140743098",
+      "legendgroup": "-1.54855140743098",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [79.45],
+      "y": [-0.0118735872209072],
+      "text": "Anjanette Garcia : Rich! You’ve come<br />so far since taking those first steps<br />towards grad school, and working on your<br />application during our time together at<br />Rosenstock! Amazing! CONGRATULATIONS!!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(217,143,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(217,143,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.38529793281831",
+      "legendgroup": "-1.38529793281831",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [28.5166666666667],
+      "y": [0.223112113215029],
+      "text": "Mike Donnelly : I am unsure what is<br />meant by kernel density in terms of well<br />failure.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(209,147,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(209,147,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.35796733097625",
+      "legendgroup": "-1.35796733097625",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [55.05],
+      "y": [0.244057516939938],
+      "text": "Nancy Wongvipat Kalev : Rich, you are<br />doing brilliant and impactful work. As a<br />public health professional, I know that<br />you will move on to do great things and<br />make a lasting transformation for our<br />communities. Phenomenal job!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(200,152,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(200,152,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.27694997166959",
+      "legendgroup": "-1.27694997166959",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [1.21666666666667],
+      "y": [0.0703815283253789],
+      "text": "Corwin Bell To Rich Pauloo(privately) :<br />Go Rich!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(190,156,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(190,156,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.23656364850494",
+      "legendgroup": "-1.23656364850494",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [72.8833333333333],
+      "y": [-0.170582813955843],
+      "text": "Alexa Zimbalist : Congratulations!!<br />Awesome job!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(180,160,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(180,160,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.10369229565731",
+      "legendgroup": "-1.10369229565731",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [77.5666666666667],
+      "y": [-0.0110784066841007],
+      "text": "Thomas Harter : Rich -well done! It has<br />been a phantastic journey to watch and,<br />at times, walk with you! Great and fun<br />presentation? Very fun, great graphics,<br />cool story! I hope to see you in person<br />before your next adventure.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(168,164,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(168,164,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-1.04782734619383",
+      "legendgroup": "-1.04782734619383",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [73.8833333333333],
+      "y": [0.132545258104801],
+      "text": "Noelle Patterson : Great science,<br />excellent communication, and beautiful<br />graphics. All around great job Rich!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(155,168,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(155,168,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.89784437688917",
+      "legendgroup": "-0.89784437688917",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [72.7166666666667],
+      "y": [-0.0432801822200418],
+      "text": "M Mautner : Nice job Rich! I have to<br />run, but we should do a happy hour later<br />this week to celebrate <3!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(140,171,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(140,171,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.842188171037066",
+      "legendgroup": "-0.842188171037066",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [27.6166666666667],
+      "y": [0.396562977135181],
+      "text": "Marisa Donnelly : Feel free to write<br />your questions as you have them, and<br />Rich will try to answer them at the end.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(124,174,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(124,174,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.768284575309059",
+      "legendgroup": "-0.768284575309059",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [0],
+      "y": [0.312493262067437],
+      "text": "Gabriel Patterson To Rich<br />Pauloo(privately) : you’re a rockstar,<br />this is going to be wonderful -Meghan",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(104,177,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(104,177,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.692156415926762",
+      "legendgroup": "-0.692156415926762",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [30.8666666666667],
+      "y": [-0.18790723644197],
+      "text": "Linda : I am so sorry to leave to<br />another meeting right now, but such<br />amazing work Rich! Congratulations!!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(79,180,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(79,180,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.665720476812129",
+      "legendgroup": "-0.665720476812129",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [36.3333333333333],
+      "y": [-0.372276507690549],
+      "text": "VICTORIA LY : How do you make these<br />beautiful figures? (Asking for a<br />friend..)",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(36,183,0,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(36,183,0,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.649628024556236",
+      "legendgroup": "-0.649628024556236",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [70.55],
+      "y": [-0.359910556860268],
+      "text": "Arielle Gervasi : Amazing presentation<br />Rich! A feast for the eyes!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,185,46,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,185,46,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.584366118843527",
+      "legendgroup": "-0.584366118843527",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [85.0833333333333],
+      "y": [-0.252701953798532],
+      "text": "Rafael Maestu : Great tool potential for<br />identification of vulnerable communities<br />(both water quantity and quality)",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,187,73,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,187,73,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.548156515266068",
+      "legendgroup": "-0.548156515266068",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [73.7833333333333],
+      "y": [0.122794103994966],
+      "text": "Sylvia Sensiper : yeah Rich!! I could<br />already see this day oh so many years<br />ago. all the best.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,189,94,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,189,94,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.537730377894039",
+      "legendgroup": "-0.537730377894039",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [45.1],
+      "y": [0.359530170820653],
+      "text": "Corwin Bell : I've got to jet. Great<br />work Rich!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,190,112,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,190,112,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.498977336768453",
+      "legendgroup": "-0.498977336768453",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [1.6],
+      "y": [0.140940195135772],
+      "text": "Corwin Bell To Rich Pauloo(privately) :<br />great facial hair",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,191,128,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,191,128,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.462352894686904",
+      "legendgroup": "-0.462352894686904",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [26.5833333333333],
+      "y": [0.380586846731603],
+      "text": "Chandan K Singh : Have you analyzed well<br />failure recovery?",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,192,144,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,192,144,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.393143062321193",
+      "legendgroup": "-0.393143062321193",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [84.5],
+      "y": [-0.201065188087523],
+      "text": "Samuel Winter : Congrats, Rich :-)",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,193,158,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,193,158,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.379936648290744",
+      "legendgroup": "-0.379936648290744",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [73.5333333333333],
+      "y": [0.242888759076595],
+      "text": "Chippie Kislik : Way to go Rich!!! You<br />rocked it!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,193,171,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,193,171,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.345665108430854",
+      "legendgroup": "-0.345665108430854",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [71],
+      "y": [-0.138113134726882],
+      "text": "John Wongvipat : Great talk and awesome<br />job Rich!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,192,184,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,192,184,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.261932728835507",
+      "legendgroup": "-0.261932728835507",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [74.7333333333333],
+      "y": [-0.0506359023973346],
+      "text": "Lisa R : You’re incredible rich! Way to<br />go!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,191,196,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,191,196,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.13105568349436",
+      "legendgroup": "-0.13105568349436",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [71.0666666666667],
+      "y": [0.145186756178737],
+      "text": "Nik Lollo : Amazing Rich!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,189,208,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,189,208,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.0993245046711032",
+      "legendgroup": "-0.0993245046711032",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [71.2166666666667],
+      "y": [-0.340115497075021],
+      "text": "Nick Murphy : Great work Rich!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,187,218,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,187,218,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.0752160474127535",
+      "legendgroup": "-0.0752160474127535",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [71.75],
+      "y": [-0.236337935365736],
+      "text": "Felipe Vazquez : Raich! When I grow up,<br />I want to be just like you!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,184,228,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,184,228,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "-0.0190410958016218",
+      "legendgroup": "-0.0190410958016218",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [91.4666666666667],
+      "y": [-0.224123646318913],
+      "text": "Sierra Flynn : We love you!! WOOO!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,181,237,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,181,237,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.0716225345683316",
+      "legendgroup": "0.0716225345683316",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [92.55],
+      "y": [-0.0145973360165954],
+      "text": "Nick Murphy : Again, great work Rich!<br />Congrats!!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,177,245,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,177,245,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.110559698198765",
+      "legendgroup": "0.110559698198765",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [25.7],
+      "y": [0.0304628528654575],
+      "text": "Chandan K Singh : Is the well Failure<br />permanent or temporary (based on drought<br />period)?",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,172,252,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,172,252,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.208519494003885",
+      "legendgroup": "0.208519494003885",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [72.1333333333333],
+      "y": [-0.24583966229111],
+      "text": "Luke Salvato : Great job Rich, u r a<br />genius",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,167,255,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,167,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.238029646147684",
+      "legendgroup": "0.238029646147684",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [91.3833333333333],
+      "y": [-0.316777333244681],
+      "text": "Riana : This is incredibly impressive.<br />Congratulations on finishing Rich!!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(66,160,255,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(66,160,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.300501766939636",
+      "legendgroup": "0.300501766939636",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [28.4666666666667],
+      "y": [-0.183532059565187],
+      "text": "Graham Fogg : Chandan: It does not<br />have to be permanent, but the ongoing<br />downward trends in groundwater levels,<br />despite SGMA management, do not bode<br />well for recovery.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(109,154,255,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(109,154,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.321347814640648",
+      "legendgroup": "0.321347814640648",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [40.4333333333333],
+      "y": [-0.287215936370194],
+      "text": "Marielle Pinheiro : @Victoria (hi!!)<br />it's likely ggplot",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(139,147,255,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(139,147,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.350554891898536",
+      "legendgroup": "0.350554891898536",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [90.7333333333333],
+      "y": [-0.245456177927554],
+      "text": "Armando Quintero : Congrats and<br />outstanding work. You are precisely a<br />water leader that California and the<br />Blue Revolution needs. Your comments<br />about representation of the little guys<br />and how agencies operate are spot on.<br />Your whole skill set makes incredibly<br />valuable for many communities in<br />California.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(162,139,255,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(162,139,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.558225948143322",
+      "legendgroup": "0.558225948143322",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [67.1166666666667],
+      "y": [-0.213137314468622],
+      "text": "noah dewar To Rich Pauloo(privately) :<br />Dude congrats! Great talk, keep me<br />posted on where you end up next!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(182,132,255,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(182,132,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.595098612684205",
+      "legendgroup": "0.595098612684205",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [89.5333333333333],
+      "y": [-0.127628736570478],
+      "text": "Jason Wiener To Rich Pauloo(privately) :<br />I gotta dip, I'll save the rest of my<br />technical questions for when we have<br />beers",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(199,124,255,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(199,124,255,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.672849010901849",
+      "legendgroup": "0.672849010901849",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [30],
+      "y": [-0.292248828709126],
+      "text": "Chandan K Singh : Prof Graham:Thanks!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(213,117,254,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(213,117,254,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.691542893930656",
+      "legendgroup": "0.691542893930656",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [74.9666666666667],
+      "y": [-0.179438259080052],
+      "text": "VICTORIA LY : Amazing job, Rich!!<br />Thank you for sharing your hard work,<br />dedication, and creativity to address<br />pressing water resource challenges.<br />Yeeee!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(225,111,247,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(225,111,247,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.709965738181285",
+      "legendgroup": "0.709965738181285",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [39.45],
+      "y": [-0.227970149554312],
+      "text": "rmgailey@ucdavis.edu : Could you use<br />this approach to track change in redox<br />with depth over time and consider<br />uranium mobilization?",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(235,105,240,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(235,105,240,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.813421070645963",
+      "legendgroup": "0.813421070645963",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [91.1666666666667],
+      "y": [0.191052300669253],
+      "text": "Armando Quintero : Hi Graham!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(243,101,231,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(243,101,231,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.875234697029907",
+      "legendgroup": "0.875234697029907",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [47.0333333333333],
+      "y": [0.347902846336365],
+      "text": "Carol Hildebrand : I need to hop off,<br />too. Thanks so much for inviting me to<br />your presentation, Rich! Congratulations<br />on your many accomplishments to-date.<br />Looking forward to continuing to follow<br />your career!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(249,98,221,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(249,98,221,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.908299073938626",
+      "legendgroup": "0.908299073938626",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [58.2166666666667],
+      "y": [-0.334985358268023],
+      "text": "Louis-XPS : Great Job! Rich and<br />Congratulations to you as you embark on<br />a new phase in your life and field of<br />expertise!",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(253,97,210,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(253,97,210,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "0.941848312828226",
+      "legendgroup": "0.941848312828226",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [70.4833333333333],
+      "y": [-0.151394423469901],
+      "text": "Daniel Kronovet : YAY RICH",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,97,198,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,97,198,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "1.01589448368122",
+      "legendgroup": "1.01589448368122",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [44.9],
+      "y": [-0.315451041609049],
+      "text": "Jason Wiener : and photoshop for<br />graphics",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,99,185,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,99,185,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "1.20325146992077",
+      "legendgroup": "1.20325146992077",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [72.75],
+      "y": [0.329880492016673],
+      "text": "NICHOLAS CHOW : Rich, this was awesome<br />and I’m so glad that I got a chance to<br />join! I can’t say how inspiring it is<br />for someone going into my PhD.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,101,172,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,101,172,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "1.21550008573559",
+      "legendgroup": "1.21550008573559",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [77.45],
+      "y": [0.311893338523805],
+      "text": "Romina Díaz Gómez : Excellent!!, great<br />job!.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,105,157,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,105,157,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "1.23339790230244",
+      "legendgroup": "1.23339790230244",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [91.35],
+      "y": [-0.301258623786271],
+      "text": "Katrina Rose To Rich Pauloo(privately) :<br />This is amazing! I am accustomed to an<br />excess of water here in Washington. In<br />our area there is frequent references to<br />water and the Common Enemy Doctrine. You<br />have accomplished so much in your life;<br />you should be proud of yourself. We're<br />glad to see you have a partner, Marissa,<br />to share your many successes with.",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(255,109,142,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,109,142,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "1.91170886498384",
+      "legendgroup": "1.91170886498384",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [77.7833333333333],
+      "y": [0.195168472081423],
+      "text": "Meredith Lee : FANTASTIC job, Rich and<br />the Village behind this PhD!! Question:<br />What was most surprising, reflecting<br />on your Dark Cave of \"Failed\" Ideas? -<br />Meredith (West Big Data Innovation Hub /<br />UC Berkeley / CA Water Data Challenge<br />team)",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(252,113,126,1)",
+        "opacity": 0.5,
+        "size": 18.8976377952756,
+        "symbol": "circle",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(252,113,126,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "2.47747789212185",
+      "legendgroup": "2.47747789212185",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 40.5976619488812,
+      "r": 7.30593607305936,
+      "b": 37.0177532730821,
+      "l": 10.958904109589
+    },
+    "plot_bgcolor": "rgba(235,235,235,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 14.6118721461187
+    },
+    "title": {
+      "text": "Zoom messages during Rich's PhD exit seminar<br><sup>(hover over points to read messages)<\/sup>",
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 17.5342465753425
+      },
+      "x": 0,
+      "xref": "paper"
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-4.6275, 97.1775],
+      "tickmode": "array",
+      "ticktext": ["0", "25", "50", "75"],
+      "tickvals": [0, 25, 50, 75],
+      "categoryorder": "array",
+      "categoryarray": ["0", "25", "50", "75"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0.66417600664176,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "time (minutes)",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 14.6118721461187
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-0.410718481931835, 0.435004951376468],
+      "tickmode": "array",
+      "ticktext": ["-0.4", "-0.2", "0.0", "0.2", "0.4"],
+      "tickvals": [-0.4, -0.2, 0, 0.2, 0.4],
+      "categoryorder": "array",
+      "categoryarray": ["-0.4", "-0.2", "0.0", "0.2", "0.4"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 14.6118721461187
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": false,
+    "legend": {
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 1.88976377952756,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 11.689497716895
+      }
+    },
+    "hovermode": "closest",
+    "barmode": "relative"
+  },
+  "config": {
+    "doubleClick": "reset",
+    "showSendToCloud": false,
+    "displayModeBar": false
+  },
+  "source": "A",
+  "attrs": {
+    "b84e283b2fd4": {
+      "x": {},
+      "y": {},
+      "text": {},
+      "colour": {},
+      "type": "scatter"
+    }
+  },
+  "cur_data": "b84e283b2fd4",
+  "visdat": {
+    "b84e283b2fd4": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}
