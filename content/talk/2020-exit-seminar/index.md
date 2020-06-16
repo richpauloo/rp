@@ -85,7 +85,7 @@ And I’m so grateful for the housemates and friends that make Davis feel like h
 
 My family has believed in me every step of the way and encouraged me to pursue graduate education in moments of doubt, and I'm very thankful for them.
 
-And I couldn’t have done this without my partner, the recent Dr. Marisa Donnelly. Throughout grad school, Marisa has been my best friend, my rock, and my family. 
+And I couldn’t have done this without my partner, the recent Dr. Marisa Donnelly. Throughout grad school, Marisa has been my best friend, my rock, and my family.
 
 
 
