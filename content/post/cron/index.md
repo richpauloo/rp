@@ -25,7 +25,7 @@ The heart of `cron` is the crontab file that you can add tasks to.
 To edit the crontab file type:  
 
 ```
-crontabs -e
+crontab -e
 ```
 
 This will open the VI editor.
