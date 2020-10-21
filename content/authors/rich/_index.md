@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Hydrogeology
+role: PhD Hydrogeology
 
 # Organizations/Affiliations
-organizations:
-- name: University of California, Davis
-  url: ""
+#organizations:
+#- name: University of California, Davis
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include hydrogeology, 3D groundwater flow and contaminant transport simulation, data science and web technologies, and building simple solutions to complex problems.
@@ -31,7 +31,7 @@ education:
   - course: PhD in Hydrogeology
     institution: UC Davis
     year: 2020
-  - course: BS in Biology, minor in Conflict Resolution
+  - course: BA in Integrative Biology, minor in Conflict Resolution
     institution: UC Berkeley
     year: 2011
 
@@ -72,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a NSF fellow and hydrogeologist developing scientific methods to monitor, model, and manage regional-scale aquifers, with applications in sustainable groundwater management, agricultural water use, and real-time natural resource monitoring. I've built simulations of groundwater flow and contaminant transport, open source frameworks for real-time groundwater monitoring, and models that predict if a well may run dry during drought or unsustainable management. 
+I'm a hydrogeologist developing scientific methods to monitor, model, and manage regional-scale aquifers, with applications in sustainable groundwater management, agricultural water use, and real-time natural resource monitoring. I've built simulations of groundwater flow and contaminant transport, open source frameworks for real-time groundwater monitoring, and models that predict if a well may run dry during drought or unsustainable management.
 
-Before pursuing my PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). I learned how to work with tight knit groups for weeks on end in far corners of the Earth, speak comfortably to large crowds, communicate science to diverse audiences, and improvise. 
+Science communication is core to my interests. Before pursuing a PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). I love the challenge of guiding tight knit groups for weeks on end in far corners of the Earth, speaking to large crowds, communicating science to diverse audiences, and improvising. 
 
-I love to learn new things, cook, play guitar, explore the alpine environment with a rope and harness, take bike tours, and catch waves in the cold California ocean.
+Outside of work, I like to learn new things, cook, playing guitar, explore the alpine environment with a rope and harness, take bike tours, and catch waves in the cold California ocean.  
