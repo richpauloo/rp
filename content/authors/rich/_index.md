@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rich Pauloo
+name: Rich Pauloo, PhD
 
 # Rich (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Hydrogeology
+role: Hydrogeologist
 
 # Organizations/Affiliations
 #organizations:
