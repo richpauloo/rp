@@ -1,3 +1,10 @@
+This site is built with Hugo Extended v0.61, which can be configured from R with:  
+
+```r
+blogdown::install_hugo(version = "0.61.0", force = TRUE)
+```
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6b0e3b34-9469-49b8-9070-86b234d4ad78/deploy-status)](https://app.netlify.com/sites/angry-perlman-275810/deploys)
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
