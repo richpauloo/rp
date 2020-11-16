@@ -112,7 +112,7 @@ Now you should be able to navigate to `<public IP address>:8787` and login with 
 ![](ip.png)  
 
 
-## 4. Confgure DNS  
+# 4. Confgure DNS  
 
 It's nice to navigate to a non-IP address. Go to "Settings -> Configuration" in the VM dashboard and add a DNS alias label.  
 
