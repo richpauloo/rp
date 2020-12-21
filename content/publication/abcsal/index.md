@@ -1,6 +1,6 @@
 ---
 title: 'Anthropogenic Basin Closure and Groundwater Salinization (ABCSAL)'
-date: "2019-12-28T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 slug: abcsal
 authors:
 - Rich

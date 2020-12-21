@@ -1,6 +1,6 @@
 ---
 title: Low-Cost, Open Source Wireless Sensor Network for Real-Time, Scalable Groundwater Monitoring
-date: "2019-12-28T00:00:00Z"
+date: "2020-04-09T00:00:00Z"
 slug: lcsn
 authors:
 - Andrew Calderwood

@@ -1,6 +1,6 @@
 ---
 title: Domestic Well Vulnerability to Drought Duration and Unsustainable Groundwater Management in California's Central Valley
-date: "2019-12-28T00:00:00Z"
+date: "2020-03-18T00:00:00Z"
 slug: well-failure
 authors:
 - Rich
@@ -37,11 +37,9 @@ url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25338/B8Q31D'
 
 ### Backstory
 
-This publication grew out of the [2018 California water data Challenge](https://findanewway.ca.gov/2018/11/20/cawaterdatachallenge/), for which my team was awarded a winning prize.  
+This publication grew out of the [2018 California water data Challenge](https://findanewway.ca.gov/2018/11/20/cawaterdatachallenge/), for which our team was awarded a winning prize. 
 
 <center>{{< tweet 1053082342279892992 >}}</center>
 
 
-### Video abstract
 
-{{<youtube hCND7PohWqM>}}

@@ -1,6 +1,6 @@
 ---
 title: Hydraulic Gradients Modulate Non-Fickian Transport in Heterogeneous Porous Media
-date: "2019-12-28T00:00:00Z"
+date: "2020-12-02T00:00:00Z"
 authors:
 - Rich
 - Graham E. Fogg
@@ -11,7 +11,7 @@ doi: '10.1002/essoar.10501680.1'
 publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Water Resources Research* (in prep)"
-publication_short: "*WRR* (in prep)"
+publication_short: "*WRR* (in revision)"
 
 summary: Fluid flow and contaminant transport in heterogeneous porous media is critical in many applications from sustainable groundwater quality management to radioactive waste disposal and water filtration. Accurate contaminant transport modeling is challenged by anomalous (non-Fickian) transport, characterized by early breakthrough, long tailing, non-Gaussian or multipeaked plume shapes, and non-linear scaling of the mean square displacement. 
 

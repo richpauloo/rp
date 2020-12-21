@@ -1,6 +1,6 @@
 ---
 title: Assessing Impact of Outreach through Software Citation for Community Software in Geodynamics
-date: "2019-09-10T00:00:00Z"
+date: "2020-02-10T00:00:00Z"
 authors:
 - Lorraine J. Hwang
 - Rich
