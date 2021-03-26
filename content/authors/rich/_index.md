@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Hydrogeologist
+role: Hydrologist and data nerd
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ role: Hydrogeologist
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include hydrogeology, 3D groundwater flow and contaminant transport simulation, data science and web technologies, building simple solutions to complex problems, and expedition behavior.
+bio: My interests include hydrogeology, data science and web technologies, 3D groundwater flow and contaminant transport simulation, building simple solutions to complex problems, and expedition behavior.
 
 interests:
 - expedition behavior
@@ -67,13 +67,13 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Groundwater resources support global food supply and civilization, yet are in decline worldwide. With a background in hydrogeology and data science, I develop scalable and scientific methods to monitor, model, and manage regional-scale aquifers. I've built simulations of groundwater flow and contaminant transport, open source frameworks for real-time groundwater monitoring, and models that predict if a well may run dry during drought or unsustainable management.
+Groundwater resources support global food supply and civilization, yet are in decline worldwide. I use my background in hydrogeology and data science to develop scalable and scientific methods to monitor, model, and manage regional-scale aquifers. I've built open source frameworks for real-time groundwater monitoring, models that predict if a well may run dry during drought or unsustainable management, and 3D physical simulations of groundwater flow and contaminant transport.
 
-I'm also passionate about science education, the outdoors, and {{% staticref "files/expedition-behavior.pdf" %}}expedition behavior{{% /staticref %}}. Before pursuing a PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). I love the challenge of guiding tight knit groups from different cultures across difficult terrain, speaking to large crowds, communicating to diverse audiences, and improvising. 
+I'm passionate about data literacy and STEM education, the outdoors, and {{% staticref "files/expedition-behavior.pdf" %}}expedition behavior{{% /staticref %}}. Before pursuing a PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). I love the challenge of guiding tight knit groups from different cultures across difficult terrain, speaking to large crowds, communicating to diverse audiences, and improvising. 
 
 In my free time, I enjoy alpine climbing, running, surfing, tinkering on bikes, reading, playing guitar, and cooking extravagant dinners.  
