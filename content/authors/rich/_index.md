@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Hydrologist and data nerd
+role: Hydrologist and data scientist
 
 # Organizations/Affiliations
 #organizations:
