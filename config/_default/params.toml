@@ -86,18 +86,20 @@ privacy_pack = false
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "richpauloo@gmail.com"
-phone = "+1 415 275 4981"
+#phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1 Shields Ave", city = "Davis", region = "CA", postcode = "95616", country = "United States", country_code = "US"}
+#address = {city = "Berkeley", region = "CA", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.543041", longitude = "-121.752027"}
+coordinates = {latitude = "37.921484", longitude = "-122.265444"}
+
+
 
 # Directions for visitors to locate you.
-directions = "Enter Veihmeyer Hall and take the stairs to Office 242 on Floor 2"
+#directions = "Call me beep me if you wanna reach me"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
