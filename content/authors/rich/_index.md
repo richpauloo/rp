@@ -21,10 +21,11 @@ role: Data science + Hydrology
 bio: My interests include data science, hydrology, geology, physical simulation, building simple solutions to complex problems, and expedition behavior.
 
 interests:
+- data science
 - expedition behavior
-- mathematical modeling of hydrologic systems
+- mathematical modeling 
 - real-time sensor networks
-- data science and open source software
+ 
 
 education:
   courses:

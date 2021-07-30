@@ -38,7 +38,7 @@ url_video: ""
 <center>{{< tweet 1412473253717712896 >}}</center>
 
 
-Throughout my PhD I often wished I had a data science textbook (like [r4ds](https://r4ds.had.co.nz/)) designed specifically for problems in water resources. Recently, [@riverpeek](https://twitter.com/riverpeek) were given the opportunity to build such a course for the California Water Board, and so we created [r4wrds.com](r4wrds.com) (R for Water Resources Data Science). We hope that academic, governmental, and private audiences find something useful in the material and examples we cover. 
+Throughout my PhD I often wished I had a data science textbook (like [r4ds](https://r4ds.had.co.nz/)) designed specifically for problems in water resources. Recently, [@riverpeek](https://twitter.com/riverpeek) and I were given the opportunity to build such a course for the California Water Board, and so we created [r4wrds.com](r4wrds.com) (R for Water Resources Data Science). We hope that academic, governmental, and private audiences find something useful in the material and examples we cover. 
 
 Water resources is a broad field encompassing many specialties, from urban to rural management, from quantity to quality, and from surface to groundwater. As a field, we face modern challenges posed by aging infrastructure, a changing climate, population growth, unsustainable demand, and contamination. These interconnected challenges demand modern, shareable, scalable solutions. [r4wrds](r4wrds.com) provides a foundation in reproducible data science to address those challenges.
 
