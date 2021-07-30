@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Hydrologist and data scientist
+role: Data science + Hydrology
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ role: Hydrologist and data scientist
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include hydrogeology, data science and web technologies, 3D groundwater flow and contaminant transport simulation, building simple solutions to complex problems, and expedition behavior.
+bio: My interests include data science, hydrology, geology, physical simulation, building simple solutions to complex problems, and expedition behavior.
 
 interests:
 - expedition behavior
@@ -70,10 +70,15 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
+
+# old academic bio:
+# Groundwater resources support global food supply and civilization, yet are in decline worldwide. I use my background in hydrogeology and data science to develop scalable and scientific methods to monitor, model, and manage regional-scale aquifers. I've built open source frameworks for real-time groundwater monitoring, models that predict if a well may run dry during drought or unsustainable management, and 3D physical simulations of groundwater flow and contaminant transport.
 ---
 
-Groundwater resources support global food supply and civilization, yet are in decline worldwide. I use my background in hydrogeology and data science to develop scalable and scientific methods to monitor, model, and manage regional-scale aquifers. I've built open source frameworks for real-time groundwater monitoring, models that predict if a well may run dry during drought or unsustainable management, and 3D physical simulations of groundwater flow and contaminant transport.
+I'm a data scientist with a background in physical science (hydrology, fluid mechanics, geology, statistical methods, optimization, geospatial science), computing (sensor networks, cloud computing, open source software development), and physics (mathematical and numerical modeling, contaminant transport).  
 
-I'm passionate about data literacy and STEM education, the outdoors, and {{% staticref "files/expedition-behavior.pdf" %}}expedition behavior{{% /staticref %}}. Before pursuing a PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). I love the challenge of guiding tight knit groups from different cultures across difficult terrain, speaking to large crowds, communicating to diverse audiences, and improvising. 
+I have coded workflows to automate ETL jobs from from [hundreds of remote sensor networks](https://www.richpauloo.com/project/lcsn/); built dashboards and interactive data visualizations to bring clarity to [datasets with millions of observations](http://calwaterquality.com/); created 3D numerical physical simulation models of [groundwater flow and contaminant transport](https://www.richpauloo.com/publication/vhgr/); explored ways to improve machine learning [interpretability](https://twitter.com/RichPauloo/status/1124470765095538688); built [R packages](https://github.com/richpauloo/textme); won an AI for Earth Grant to model the risk of [domestic wells going dry in California's Central Valley](https://www.gspdrywells.com/); and developed [R data science curriculum](https://r4wrds.com/).  
+
+Ask me about data literacy and STEM education, the outdoors, and {{% staticref "files/expedition-behavior.pdf" %}}expedition behavior{{% /staticref %}}. Before pursuing a PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). I love the challenge of guiding tight knit groups from different cultures across difficult terrain, speaking to large crowds, communicating to diverse audiences, and improvising. 
 
 In my free time, I enjoy alpine climbing, running, surfing, tinkering on bikes, reading, playing guitar, and cooking extravagant dinners.  
