@@ -21,19 +21,19 @@ role: Data science + Hydrology
 bio: My interests include data science, hydrology, geology, physical simulation, building simple solutions to complex problems, and expedition behavior.
 
 interests:
-- data science
-- expedition behavior
-- mathematical modeling 
-- real-time sensor networks
+- 👨‍💻 data science
+- ⛰️ expedition behavior
+- 🧮 mathematical modeling 
+- 📡 real-time sensor networks 
  
 
 education:
   courses:
-  - course: PhD in Hydrogeology
-    institution: UC Davis
+  - course: PhD in Hydrogeology 
+    institution: University of California Davis
     year: 2020
   - course: BA in Integrative Biology, minor in Conflict Resolution
-    institution: UC Berkeley
+    institution: University of California Berkeley
     year: 2011
 
 
@@ -78,8 +78,8 @@ email: ""
 
 I'm a data scientist with a background in physical science (hydrology, fluid mechanics, geology, statistical methods, optimization, geospatial science), computing (sensor networks, cloud computing, open source software development), and physics (mathematical and numerical modeling, contaminant transport).  
 
-I have coded workflows to automate ETL jobs from from [hundreds of remote sensor networks](https://www.richpauloo.com/project/lcsn/); built dashboards and interactive data visualizations to bring clarity to [datasets with millions of observations](http://calwaterquality.com/); created 3D numerical physical simulation models of [groundwater flow and contaminant transport](https://www.richpauloo.com/publication/vhgr/); explored ways to improve machine learning [interpretability](https://twitter.com/RichPauloo/status/1124470765095538688); built [R packages](https://github.com/richpauloo/textme); won an AI for Earth Grant to model the risk of [domestic wells going dry in California's Central Valley](https://www.gspdrywells.com/); and developed [R data science curriculum](https://r4wrds.com/).  
+I have coded workflows to automate ETL jobs from from [hundreds of remote sensor networks 📡](https://www.richpauloo.com/project/lcsn/); built dashboards and interactive data visualizations to bring clarity to [datasets with millions of observations 📈](http://calwaterquality.com/); created 3D numerical physical simulation models of [groundwater flow and contaminant transport 🖥️](https://www.richpauloo.com/publication/vhgr/); explored ways to improve machine learning [interpretability 🌳](https://twitter.com/RichPauloo/status/1124470765095538688); built [R packages 📦](https://github.com/richpauloo/textme); won an AI for Earth Grant to model the risk of [domestic wells going dry in California's Central Valley 💧](https://www.gspdrywells.com/); and developed [R data science curriculum 📚](https://r4wrds.com/).  
 
 Ask me about data literacy and STEM education, the outdoors, and {{% staticref "files/expedition-behavior.pdf" %}}expedition behavior{{% /staticref %}}. Before pursuing a PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). I love the challenge of guiding tight knit groups from different cultures across difficult terrain, speaking to large crowds, communicating to diverse audiences, and improvising. 
 
-In my free time, I enjoy alpine climbing, running, surfing, tinkering on bikes, reading, playing guitar, and cooking extravagant dinners.  
+In my free time, I enjoy alpine climbing 🧗🏼, running 🏃‍♂️, surfing 🏄‍♂️, tinkering on bikes 🚴‍♂️, reading 📚, playing guitar 🎸, and cooking extravagant dinners 🧑‍🍳.  
