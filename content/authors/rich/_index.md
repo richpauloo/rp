@@ -24,7 +24,7 @@ interests:
 - 👨‍💻 data science
 - ⛰️ expedition behavior
 - 🧮 mathematical modeling 
-- 📡 real-time sensor networks 
+- 📡 sensor networks 
  
 
 education:
@@ -76,10 +76,12 @@ email: ""
 # Groundwater resources support global food supply and civilization, yet are in decline worldwide. I use my background in hydrogeology and data science to develop scalable and scientific methods to monitor, model, and manage regional-scale aquifers. I've built open source frameworks for real-time groundwater monitoring, models that predict if a well may run dry during drought or unsustainable management, and 3D physical simulations of groundwater flow and contaminant transport.
 ---
 
-I'm a data scientist with a background in physical science (hydrology, fluid mechanics, geology, statistical methods, optimization, geospatial science), computing (sensor networks, cloud computing, open source software development), and physics (mathematical and numerical modeling, contaminant transport).  
+I'm a data scientist at LWA and spend most of my time in `R` automating ETL pipelines for sensor networks 📡, building Shiny Apps and dashboards 🖥, designing approaches with spatial statistics and hydrologic models, and generally wrangling lots and lots of data. 
 
-I have coded workflows to automate ETL jobs from from [hundreds of remote sensor networks 📡](https://www.richpauloo.com/project/lcsn/); built dashboards and interactive data visualizations to bring clarity to [datasets with millions of observations 📈](http://calwaterquality.com/); created 3D numerical physical simulation models of [groundwater flow and contaminant transport 🖥️](https://www.richpauloo.com/publication/vhgr/); explored ways to improve machine learning [interpretability 🌳](https://twitter.com/RichPauloo/status/1124470765095538688); built [R packages 📦](https://github.com/richpauloo/textme); won an AI for Earth Grant to model the risk of [domestic wells going dry in California's Central Valley 💧](https://www.gspdrywells.com/); and developed [R data science curriculum 📚](https://r4wrds.com/).  
+I have a PhD in Hydrology and my dissertation is titled *'Emerging consequences of regional-scale aquifer depletion: data-driven and numerical models of well failure, basin salinization, and contaminant transport'* [(my exit seminar can be viewed here)](https://www.richpauloo.com/talk/2020-exit-seminar/). Early in my PhD, I found that I really enjoyed data science and programming, and I used these years to sharpen those skills. My published research includes [NLP and network analysis](https://www.richpauloo.com/publication/cig/), [spatial statistics](https://www.richpauloo.com/publication/well-failure/), and [physical modeling of 3D, subsurface contaminant transport](https://www.richpauloo.com/publication/vhgr/).
 
-Ask me about data literacy and STEM education, the outdoors, and {{% staticref "files/expedition-behavior.pdf" %}}expedition behavior{{% /staticref %}}. Before pursuing a PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/), and spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/). I love the challenge of guiding tight knit groups from different cultures across difficult terrain, speaking to large crowds, communicating to diverse audiences, and improvising. 
+I'm an #rstats nerd and automation/reproducibility fanatic. My favorite tools include tidyverse (`dplyr`, `ggplot2`, `purrr`), `shiny`, `flexdashboard`, `DT`, `RMarkdown` (for dashbaords/reporting), `sf`, `sp`, `raster`, `leaflet` (for spatial data), and `DBI` for databases. A few projects I'm proud of include an [`R` package to query water quality data 📦](https://caopenwater.github.io/sdwisard/), [R data science curriculum 📚](https://r4wrds.com/), a dashboard that makes [millions of water quality observations understandable 📈](http://calwaterquality.com/), and a model that [predicts the risk of wells going dry 💧](https://www.gspdrywells.com/) funded by Microsoft's AI for Earth Grant.  
 
-In my free time, I enjoy alpine climbing 🧗🏼, running 🏃‍♂️, surfing 🏄‍♂️, tinkering on bikes 🚴‍♂️, reading 📚, playing guitar 🎸, and cooking extravagant dinners 🧑‍🍳.  
+Before my PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/). I spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/).
+
+In my free time, I enjoy anything that puts me in a flow state: alpine climbing 🧗🏼, running 🏃‍♂️, surfing 🏄‍♂️, tinkering on bikes 🚴‍♂️, reading 📚, playing guitar 🎸, and cooking 🧑‍🍳.
