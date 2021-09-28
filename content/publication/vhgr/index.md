@@ -10,7 +10,7 @@ slug: vhgr
 doi: '10.1029/2020WR028655'
 publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
-publication: "*Water Resources Research* (in prep)"
+publication: "*Water Resources Research*"
 publication_short: "*WRR*"
 
 summary: Fluid flow and contaminant transport in heterogeneous porous media is critical in many applications from sustainable groundwater quality management to radioactive waste disposal and water filtration. Accurate contaminant transport modeling is challenged by anomalous (non-Fickian) transport, characterized by early breakthrough, long tailing, non-Gaussian or multipeaked plume shapes, and non-linear scaling of the mean square displacement. 
