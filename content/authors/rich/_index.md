@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Hydrogeology 
+  - course: PhD in Computational Hydrogeology 
     institution: University of California Davis
     year: 2020
   - course: BA in Integrative Biology, minor in Conflict Resolution
