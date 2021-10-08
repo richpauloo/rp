@@ -88,4 +88,4 @@ email: ""
 
 I spend most of my days writing code (mostly `R`, `Python`, `SQL`) to clean, visualize, and model data. I have a PhD in computational hydrogeology, where I simulated and visualized 3D contaminant transport in aquifers. 
 
-I love to surf 🏄‍, climb mountains  🧗🏼, tinker on bikes 🚴‍, read and learn new things 📚, play guitar  📚, and cook 🧑‍🍳. 
+I love to surf 🏄‍, climb mountains  🧗🏼, tinker on bikes 🚴‍, read and learn new things 📚, play guitar 🎸, and cook 🧑‍🍳. 
