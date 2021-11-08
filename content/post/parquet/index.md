@@ -9,7 +9,7 @@ subtitle: ''
 summary: 'Query Parquet with dbplyr, arrow, DBI, and DuckDB in R'
 authors: []
 #lastmod: '2019-12-29T09:47:33-08:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
