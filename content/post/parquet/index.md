@@ -20,12 +20,12 @@ projects: []
 
 ## Introduction
 
-As opposed to traditional row-based storage (e.g., SQL), Parquet files are a columnar data format (`.parquet`) that compress to small size (fast read/write and small disk usage). Parquet data format can also speed up queries by partioning the data across groups. For instance, if you had a dataset spanning the 50 US States and partioned across state names, queries that only involve one state could be sped up by only reading the files from that state. Writing to parquet data format and partitoning is relatively trivial in `R` with the `{arrow}` package which provides `arrow::write_dataset()`. However, there are a few options for reading and querying Parquet data from `R`. Here, we cover two approaches to query Parquet files from `R`:
+As opposed to traditional row-based storage (e.g., SQL), Parquet files (`.parquet`) are columnar-based, and feature efficient compression (fast read/write and small disk usage) and optimized performance for big data. Writing to parquet data format and partitioning (splitting the data across multiple files for faster querying) is relatively trivial in `R` with the `[{arrow}]`(https://arrow.apache.org/docs/r/) package which provides `arrow::write_dataset()`. There are a few options for querying Parquet data from `R`. I'll cover two approaches to query Parquet files from `R` in this post:
 
 1. `{dbplyr}` - write dplyr code and `collect()` results  
-2. `{duckdb}` and `{DBI}` - use DuckDB to query the Parquet files with `SQL` 
+2. `{duckdb}` and `{DBI}` - use DuckDB to query Parquet files with `SQL` 
 
-
+<br>
 ## Create some data to play with
 
 First, make sure you have `{tidyverse}`, `{duckdb}`, `{arrow}`, `{dbplyr}`, and `{DBI}` installed.  
@@ -75,10 +75,10 @@ dir_ls(dir_out, recurse = TRUE, glob = "*.parquet")
 ```
 
 {{% alert note %}}
-Each parquet file is stored in its own subdirectory (by partition) in a series of parquet files. Because there are only 50 rows per iris species in this example, there is only one parquet file per subdirectory.
+Each parquet file is stored in its own subdirectory (by partition) in a series of parquet files. Because there are only 50 rows per iris species in this example, there is only one parquet file per subdirectory (`part-0.parquet`).
 {{% /alert %}}
 
-
+<br>
 ## Query with `{dbplyr}`
 
 For simple queries I like to use `{dplyr}`. Parquet files can be "opened" as a `FileSystemDataset` object and queried with dplyr verbs. Results are gathered an `R` `data.frame` with a call to `collect()`.
@@ -126,9 +126,10 @@ Note that rows in the species column (which we partioned by) are overwritten wit
 15          5.3     1
 ```
 
+<br>
 ## Query with `SQL`
 
-At other times it makes more sense to query our parquet files with SQL. For this we can use a combination of `{duckdb}` and `{DBI}`. As before, we open the dataset with `arrow::open_dateset()`, but this time we create a DuckDB Database connection objection with `DBI::dbConnect(duckdb::duckdb())` and register the connection with `duckdb::duckdb_register_arrow()`. Then we use `DBI::dbGetQuery()` calls to query our Parquet files with SQL. Reproducing the same query as above with SQL:
+At other times it makes more sense to query our parquet files with SQL. For this we can use a combination of `{duckdb}` and `{DBI}`. As before, we open the dataset with `arrow::open_dataset()`, but this time we create a DuckDB Database connection objection with `DBI::dbConnect(duckdb::duckdb())` and register the connection with `duckdb::duckdb_register_arrow()`. Then we use `DBI::dbGetQuery()` calls to query our Parquet files with SQL. Reproducing the same query as above with SQL:
 
 ```
 # open dataset
