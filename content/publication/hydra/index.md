@@ -25,7 +25,7 @@ image:
 links:
 #url_pdf: 
 url_code: 'https://github.com/kashingtonDC/RS_GW'
-#url_dataset: 'https://datadryad.org/stash/dataset/doi:10.25338/B8Q31D'
+#url_dataset: ''
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
