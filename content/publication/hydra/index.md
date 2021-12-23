@@ -1,7 +1,7 @@
 ---
 title: Assessing the utility of remote sensing data to accurately estimate changes in groundwater storage
 date: "2022-02-10T00:00:00Z"
-slug: well-failure
+slug: hydra
 authors:
 - Aakash Ahamed
 - Rosemary Knight
