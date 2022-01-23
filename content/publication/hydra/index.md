@@ -1,5 +1,5 @@
 ---
-title: Assessing the utility of remote sensing data to accurately estimate changes in groundwater storage
+title: "Assessing the utility of remote sensing data to accurately estimate changes in groundwater storage"
 date: "2022-02-10T00:00:00Z"
 slug: hydra
 authors:
