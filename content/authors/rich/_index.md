@@ -84,8 +84,9 @@ email: ""
 # Before my PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit [NatureBridge](https://naturebridge.org/). I spent summers leading expeditions in the wilderness, and in Thailand for [National Geographic Student Expeditions](https://www.nationalgeographic.com/student-expeditions/).
 # 
 # In my free time, I enjoy anything that puts me in a flow state: alpine climbing 🧗🏼, running 🏃‍♂️, surfing 🏄‍♂️, tinkering on bikes 🚴‍♂️, reading 📚, playing guitar 🎸, and cooking 🧑‍🍳.
+# I spend most of my days writing code (mostly `R`, `Python`, `SQL`) to clean, visualize, and model data. I have a PhD in computational hydrogeology, where I simulated and visualized 3D contaminant transport in aquifers. 
 ---
 
-I spend most of my days writing code (mostly `R`, `Python`, `SQL`) to clean, visualize, and model data. I have a PhD in computational hydrogeology, where I simulated and visualized 3D contaminant transport in aquifers. 
+I'm a data scientist, educator, and co-founder of [Water Data Lab](https://www.waterdatalab.com) where I build analytics platforms to solve water resources problems. 
 
 I love to surf 🏄‍, climb mountains  🧗🏼, tinker on bikes 🚴‍, read and learn new things 📚, play guitar 🎸, and cook 🧑‍🍳. 
