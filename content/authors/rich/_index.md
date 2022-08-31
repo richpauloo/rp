@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: ""
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,8 @@ role: Data Scientist
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include data science, hydrology, geology, physical simulation, building simple solutions to complex problems, and expedition behavior.
+# bio: My interests include data science, hydrology, geology, physical simulation, building simple solutions to complex problems, and expedition behavior.
+bio: ""
 
 interests:
 - 👨‍💻 data science
