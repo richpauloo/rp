@@ -22,10 +22,11 @@ role: ""
 bio: ""
 
 interests:
-- 👨‍💻 data science
-- ⛰️ expedition behavior
-- 🧮 mathematical modeling 
-- 📡 sensor networks 
+- 💧 water
+- 🧮 modeling 
+- 👨‍💻 data science/engineering
+- 📡 sensors, IoT, automation
+
  
 
 education:
@@ -88,6 +89,6 @@ email: ""
 # I spend most of my days writing code (mostly `R`, `Python`, `SQL`) to clean, visualize, and model data. I have a PhD in computational hydrogeology, where I simulated and visualized 3D contaminant transport in aquifers. 
 ---
 
-I'm a data scientist, educator, and co-founder of [Water Data Lab](https://www.waterdatalab.com) where I build analytics platforms to solve water resources problems. 
+I'm a scientist, educator, lifelong learner, and co-founder of [Water Data Lab](https://www.waterdatalab.com).  
 
 I love to surf 🏄‍, climb mountains  🧗🏼, tinker on bikes 🚴‍, read and learn new things 📚, play guitar 🎸, and cook 🧑‍🍳. 
