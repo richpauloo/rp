@@ -22,9 +22,9 @@ role: ""
 bio: ""
 
 interests:
-- 💧 all things water
+- 💧 water
+- 🧮 modeling 
 - 👨‍💻 data science/engineering
-- 🧮 mathematical modeling, stats
 - 📡 sensors, IoT, automation
 
  
