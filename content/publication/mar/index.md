@@ -3,9 +3,9 @@ title: Sustainability of Regional Groundwater Quality in Response to Managed Aqu
 date: "2022-12-18T00:00:00Z"
 slug: mar
 authors:
-- Rich
-- Graham E. Fogg
 - Zhilin Guo
+- Graham E. Fogg
+- Rich Pauloo
 - Chunmiao Zheng
 summary: ''
 doi: '10.1029/2021WR031459'
