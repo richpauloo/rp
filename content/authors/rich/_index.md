@@ -33,10 +33,8 @@ education:
   courses:
   - course: PhD in Computational Hydrogeology 
     institution: University of California Davis
-    year: 2020
   - course: BA in Integrative Biology, minor in Conflict Resolution
     institution: University of California Berkeley
-    year: 2011
 
 
 # Social/Academic Networking
