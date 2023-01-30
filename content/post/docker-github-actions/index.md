@@ -141,7 +141,7 @@ The architecture in this example is slightly more complex because we build a cus
 
 First, we build our custom Docker image. I didn't need all of the dependencies of `rocker/tidyverse`, but I did want to [develop in RStudio in Docker](https://www.richpauloo.com/post/rstudio-docker/) so I began with the relatively spartan `rocker/rstudio:latest-daily` base image. Starting from the Rocker Dockerfiles and tracing these back to the bash install scripts ([for example](https://github.com/rocker-org/rocker-versioned2/blob/master/scripts/install_verse.sh)) is a great way to gain intuition and start building an image from scratch ([I modified this script here to include only what I needed -- this helps control the image size and build time, and eliminates unneeded dependencies](https://github.com/richpauloo/twilio_dox/blob/main/docker/install_libs.sh)).  
 
-{{% notice tip %}}
+{{% alert note %}}
 
 If building Docker images on the Apple M1, chip, use the cross-platform `buildx` ([detailed here](https://docs.docker.com/build/building/multi-platform/)), like so:   
 
@@ -149,7 +149,7 @@ If building Docker images on the Apple M1, chip, use the cross-platform `buildx`
 docker buildx build --platform=linux/amd64 . -t docker.io/richpauloo/tdox:prod.0.0.01
 ```
 
-{{% /notice %}}
+{{% /alert %}}
 
 Next, the github workflow file `.github/workflows/send_message.yml` is:  
 
@@ -199,13 +199,13 @@ jobs:
 
 Notice that I have 4 environmental variables for four different target phone numbers that I don't want to push directly to the Github repo. There's certainly a more elegant way to scale the code to multiple target phone numbers without creating a new environmental variable for each, for instance, by stashing in a private S3 bucket or another cloud service and giving the Github Action credentials to access this file to read them all at once. For a quick one-off project, this works just fine. You can pass R code directly into the `run:` part of a workflow step by specifying the `shell: Rscript {0}`.  
 
-{{% notice note %}}
+{{% alert note %}}
 
 Also note that the final task in this workflow prints the `sessionInfo()` to the workflow log, which is helpful for debugging (example output below).  
 
 ![Screenshot of SessionInfo as part of a Github Action workflow task.](session_info.png)  
 
-{{% /notice %}}
+{{% /alert %}}
 
 Next, the `01_download_plot.R` step downloads data from a United States Geologic Survey IoT sensor that measures dissolved oxygen in the surface water body that we wish to monitor, then writes a plot and csv.  
 
